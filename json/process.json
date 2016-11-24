@@ -1,0 +1,72 @@
+{	"ListItems": [
+	{
+		"item": "Introducing VJ Tools !!! Video Intro's, Outtro's, Accapellas, Remixes, with Hi-Fi audio tracks. Click VJTOOLS on the blue menu bar."
+	},{
+		"item": "Video! Yes you can download, and no it doesn't cost more, as always: Rate and you shall receive!"
+	},{
+		"item": "DIGGIN IN THE CRATES is back! (You wanted it. We heard you.)"
+	},{
+		"item": "Remix Corner. Sell your remix here. We respect our DJ's. Quality please."
+	},{
+		"item": "Independent labels upload your track, and blow up nationwide..."
+	},{
+		"item": "Cool CHAT (optional). Holla at somebody. (Music/DJ stuff please)"
+	},{
+		"item": "Clear downloaded tracks, or restore your download list up to 10 days"
+	},{
+		"item": "Chat or search videos, crates, remix, and inde tracks while your audio or video preview keeps playing."
+	},{
+		"item": "Cool new look, but it is still all about the music."
+	},{
+		"item": "Search: Find by GENRE. (In addition to Title / Artist search)"
+	},{
+		"item": "Search: Jump to any page. Just change the page number and hit enter. (No more next, next, next, ...)"
+	},{
+		"item": "Search: Power search! At the top matches Title, Artist, Genre, anywhere: New Tracks, The Crates, Videos, Remix, Independent."
+	},{
+		"item": "Search: Jump to any page (Just change the page number and hit enter)"
+	}
+],
+  "Content": [
+    {
+      "faq_q": "Does it cost more?",
+      "faq_a": "$50 a month still gets you access to the most comprehensive record pool in the industry.  But now you also get video, crates, remix corner, and inde tracks."
+    },
+    {
+      "faq_q": "How do I use the new power search? ",
+      "faq_a": "Type text in the field at the top, and click power search. It will find any track with that title, artist, or album anywhere on the site. Click to rate and receive id it is a new track or video, preview and purchase if it's in the Crates or remix corner."
+    },
+    {
+      "faq_q": "Does it cost more?",
+      "faq_a": "Clicking on 'Tracks' takes you directly to a list of songs initially sorted from newest to oldest. Start clicking, listening and downloading."
+    },
+    {
+      "faq_q": "How do I jump to a page?",
+	      "faq_a": "When browsing  tracks look for: THE MEDIA CONTROL BUTTONS . Place the mouse over the input box in the middle to see the number of pages. Change the number in the box to the page you want to jump to, and hit enter."
+    },
+    {
+      "faq_q": "How do I get to videos? ",
+      "faq_a": "Click VIDEO on the blue navigation bar at the top of the page."
+    },
+    {
+      "faq_q": "Can I skip the review please?",
+      "faq_a": "Your opinion is incredibly valuable to the record labels and artists.  Your feedback is helping the record labels put out music that your listeners want to hear."
+    },
+    {
+      "faq_q": "Why does video take longer to download?",
+      "faq_a": "Our videos are of highest quality, and can run 30 - 90 megabytes even with the best compression in the industry. Load one into PCDJ and see for yourself."
+    },
+    {
+      "faq_q": "What if I can't hear any music to give the review? What do I do?",
+      "faq_a": "Download the latest version of the flash player."
+    },
+    {
+      "faq_q": "How do I download the music?",
+      "faq_a": "After you provide us with your honest review (we WANT you to tell us if a song is wack or dope), you'll be able to check off what versions you want and download them."
+    },
+    {
+      "faq_q": "How does the video backlog work?",
+      "faq_a": "We would like to do the ratings right when the videos are published. At that time they are color coded red, yellow, and blue, with unlimited downloads. After anout 30 days they go into backlog and are listed in green. We keep thme arount for your convenience, to pick up the few you might have missed. These are limited to 100 every 30 days. Note: This does not apply to the videos listed in: red, yellow, and blue."
+    }
+  ]
+}
